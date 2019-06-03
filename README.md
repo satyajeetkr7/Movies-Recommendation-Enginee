@@ -1,7 +1,4 @@
-# Movie-Recommendation-System
-
-Dataset:
-https://www.kaggle.com/rounakbanik/the-movies-dataset
+# Movie-Recommendation-Enginee
 
 The objective of this recommendation system is to provide satisfactory movie recommendations
 to users while keeping the system user friendly i.e. by taking minimum input from users.
