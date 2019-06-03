@@ -1,2 +1,10 @@
-# Movies-Recommendation-Enginee
-Recommender offers generalized recommnendations to every user based on movie popularity and (sometimes) genre. The basic idea behind this recommender is that movies that are more popular and more critically acclaimed will have a higher probability of being liked by the average audience. This model does not give personalized recommendations based on the user.  The implementation of this model is extremely trivial. All we have to do is sort our movies based on ratings and popularity and display the top movies of our list. As an added step, we can pass in a genre argument to get the top movies of a particular genre.
+# Movie-Recommendation-System
+
+Dataset:
+https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+The objective of this recommendation system is to provide satisfactory movie recommendations
+to users while keeping the system user friendly i.e. by taking minimum input from users.
+It recommends the movies based on metadata of the movies and past user ratings. Metadata is
+used to find similar movies as per user preference and then find most relevant movies based on
+past user ratings.
